@@ -16,8 +16,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /uptime
-  theme: ocean
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: light
+  logoUrl: https://wpgeni.com/wp-content/uploads/2022/03/wpgeni-large-logo-orange.svg
   name: Uptime
   introTitle: "**Uptime** is the uptime monitor for WPGeni website care clients."
   introMessage: This is a very cool tool.
