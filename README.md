@@ -33,7 +33,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-##[**Visit our status website →**](https://github.com/paulluxford/uptime/)
+##[**Visit our status website →**](https://paulluxford.github.io/uptime/)
 
 ## 📄 License
 
