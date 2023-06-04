@@ -41,7 +41,7 @@ status-website:
   theme: light
   logoUrl: https://wpgeni.com/wp-content/uploads/2022/03/wpgeni-large-logo-orange.svg
   name: Uptime
-  introTitle: "**Uptime** is the uptime monitor for WPGeni website care clients."
+  introTitle: "This is the uptime monitor for **WPGeni** website care clients."
   introMessage: This is a very cool tool.
   navbar:
     - title: Status
