@@ -40,7 +40,7 @@ status-website:
   baseUrl: /uptime
   theme: light
   logoUrl: https://wpgeni.com/wp-content/uploads/2022/03/wpgeni-large-logo-orange.svg
-  icon: https://wpgeni.com/wp-content/uploads/2017/11/favicon.png
+  favicon: https://wpgeni.com/wp-content/uploads/2017/11/favicon.png
   name: Uptime
   introTitle: "This is the uptime monitor for **WPGeni** website care clients."
   introMessage: This is a very cool tool.
