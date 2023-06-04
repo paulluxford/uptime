@@ -11,6 +11,28 @@ sites:
     url: https://redefininghealth.com.au
   - name: Professional Pest Manager
     url: https://professionalpestmanager.com
+  - name: Blinds 2 Go
+    url: https://www.blinds2go.com.au/
+  - name: Creative Dance Academy
+    url: https://creativedance.com.au/
+  - name: HHH
+    url: https://hhh.com.au/
+  - name: Integrated Health Specialists
+    url: https://integratedhealthspecialists.com.au/
+  - name: Manns Pest Control
+    url: https://www.mannspestcontrol.com.au/
+  - name: Nautilus Law
+    url: https://nautiluslaw.com.au/
+  - name: Resolve Pest Control
+    url: https://www.resolvepestcontrol.com.au/
+  - name: Richards Pest Control
+    url: https://richardspestcontrol.com.au/
+  - name: Rose Petals
+    url: http://rosepetals.com.au/
+  - name: The Flower Factory
+    url: http://theflowerfactory.com.au/
+  # - name: 
+  #  url:
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
