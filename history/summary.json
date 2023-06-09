@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/professionalpestmanager.com.ico",
     "slug": "professional-pest-manager",
     "status": "up",
-    "uptime": "86.02%",
+    "uptime": "86.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.02%",
-    "uptimeMonth": "86.02%",
-    "uptimeYear": "86.02%",
+    "uptimeWeek": "86.93%",
+    "uptimeMonth": "86.93%",
+    "uptimeYear": "86.93%",
     "time": 1414,
     "timeDay": 1457,
     "timeWeek": 1414,
@@ -80,18 +80,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.blinds2go.com.au.ico",
     "slug": "blinds-2-go",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "93.37%",
+    "uptimeDay": "63.20%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "93.37%",
     "time": 3490,
     "timeDay": 3305,
     "timeWeek": 3490,
     "timeMonth": 3490,
     "timeYear": 3490,
     "dailyMinutesDown": {
-      "2023-06-09": 9
+      "2023-06-09": 530
     }
   },
   {
@@ -153,9 +153,9 @@
     "url": "https://www.mannspestcontrol.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mannspestcontrol.com.au.ico",
     "slug": "manns-pest-control",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -164,7 +164,9 @@
     "timeWeek": 1974,
     "timeMonth": 1974,
     "timeYear": 1974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-09": 0
+    }
   },
   {
     "name": "Nautilus Law",
