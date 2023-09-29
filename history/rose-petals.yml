@@ -1,7 +1,7 @@
 url: http://rosepetals.com.au/
-status: up
-code: 200
-responseTime: 1812
-lastUpdated: 2023-09-28T23:12:55.559Z
+status: down
+code: 500
+responseTime: 506
+lastUpdated: 2023-09-29T06:30:48.473Z
 startTime: 2023-06-04T06:08:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
