@@ -1,7 +1,7 @@
 url: https://www.blinds2go.com.au/
-status: up
-code: 200
-responseTime: 3210
-lastUpdated: 2024-01-17T23:14:12.092Z
+status: down
+code: 503
+responseTime: 1076
+lastUpdated: 2024-01-18T15:12:39.688Z
 startTime: 2023-06-04T06:07:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
