@@ -51,7 +51,7 @@ status-website:
       href: https://wpgeni.com
       
 workflowSchedule:
-  uptime: "*/30 * * * *"
+  uptime: "*/15 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
