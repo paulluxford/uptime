@@ -23,8 +23,8 @@ sites:
     url: http://rosepetals.com.au/
   - name: The Flower Factory
     url: http://theflowerfactory.com.au/
-  # - name: Professional Pest Manager
-  #   url: https://professionalpestmanager.com
+  - name: Professional Pest Manager
+    url: https://professionalpestmanager.com
   # - name: 
   #  url:
 
